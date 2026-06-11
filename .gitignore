@@ -1,0 +1,5 @@
+*.db
+.venv/
+.gitignore/
+__pycache__/
+media/
